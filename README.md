@@ -1,24 +1,16 @@
-<!-- HEADER BANNER -->
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1523285367489-d38aec03b7f9?auto=format&fit=crop&w=1200&q=80" alt="Mountain Sunset" width="100%" />
-</p>
 
-<h1 align="center">🦋 Abdelmounaim Moulahcene</h1>
-<h3 align="center">A Student of the Infinite</h3>
+<h1 align="center" style="color:#7b1e1e;">🦋 Abdelmounaim Moulahcene</h1>
+<h3 align="center" style="color:#7b1e1e;">A Student of the Infinite</h3>
+
+
 
 <p align="center">
-  <em>
-    "The more I learn, the more I realize how much I do not know."
-  </em>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=moulahcene26&style=flat-square&color=lightgrey" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=moulahcene26&style=flat-square&color=maroon" alt="Profile Views" />
 </p>
 
 ---
 
-<img align="right" src="https://images.unsplash.com/photo-1500375592092-40eb2168fd21?auto=format&fit=crop&w=300&q=80" width="250" alt="Open Book" />
+<img align="right" src="https://i.pinimg.com/1200x/ce/5f/7d/ce5f7d13cf09151b6c8ae61c789c88fc.jpg" width="250" alt="Forest House" />
 
 ### 🪷 Who I Am
 
@@ -29,7 +21,9 @@
 
 ---
 
-> *“He who knows others is wise; he who knows himself is enlightened.”*  
+<blockquote style="color:#b33;">
+  <em>“He who knows others is wise; he who knows himself is enlightened.”</em>
+</blockquote>
 
 ---
 
@@ -43,26 +37,30 @@
 
 ### 📈 Reflections on Practice
 
-> *“Nature does not hurry, yet everything is accomplished.”*
-> 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moulahcene26&show_icons=true&theme=calm&hide=issues&hide_title=true" />
+  <em style="color:#b33;">
+    “Nature does not hurry, yet everything is accomplished.”
+  </em>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moulahcene26&theme=calm" />
+  <img src="https://github-readme-stats.vercel.app/api?username=moulahcene26&show_icons=true&theme=dark&icon_color=b33&title_color=b33&text_color=aaa&hide=issues&hide_title=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moulahcene26&layout=compact&theme=calm" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moulahcene26&theme=dark&background=000000&stroke=bb4444&ring=bb4444&fire=bb4444&currStreakLabel=bb4444" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moulahcene26&layout=compact&theme=dark&title_color=bb4444&text_color=aaa" />
 </p>
 
 ---
 
-### 🌸 A Thought to Carry
+### 
 
 <p align="center">
-  <em>
+  <em style="color:#b33;">
     “Simplicity is the ultimate sophistication.”
   </em>
 </p>
@@ -71,16 +69,16 @@
 
 <p align="center">
   <a href="mailto:oa_moulahcene@esi.dz">
-    <img src="https://img.shields.io/badge/-Write to Me-grey?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Write_to_Me-b33?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/abdelmounaim-moulahcene">
-    <img src="https://img.shields.io/badge/-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Connect-b33?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://abdelmounaim.xyz">
-    <img src="https://img.shields.io/badge/-Visit my Site-darkgreen?style=for-the-badge&logo=firefox&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Visit_my_Site-b33?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=&fontColor=bb4444"/>
 </p>
