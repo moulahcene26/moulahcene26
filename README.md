@@ -1,5 +1,5 @@
 
-<h1 align="center" style="color:#7b1e1e;">🦋 Abdelmounaim Moulahcene</h1>
+<h1 align="center" style="color:#7b1e1e;"> Abdelmounaim Moulahcene</h1>
 
 ---
 
@@ -71,5 +71,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=&fontColor=bb4444"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=&fontColor=730404"/>
 </p>
