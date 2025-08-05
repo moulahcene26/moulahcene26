@@ -1,16 +1,8 @@
 
 <h1 align="center" style="color:#7b1e1e;">🦋 Abdelmounaim Moulahcene</h1>
-<h3 align="center" style="color:#7b1e1e;">A Student of the Infinite</h3>
-
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=moulahcene26&style=flat-square&color=maroon" alt="Profile Views" />
-</p>
 
 ---
 
-<img align="right" src="https://i.pinimg.com/1200x/ce/5f/7d/ce5f7d13cf09151b6c8ae61c789c88fc.jpg" width="250" alt="Forest House" />
 
 ### 🪷 Who I Am
 
