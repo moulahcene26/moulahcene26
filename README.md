@@ -1,59 +1,86 @@
-<h1 align="center">Hi 👋, I'm Abdelmounaim Moulahcene</h1>
-<h3 align="center">Passionate Developer & Student at ESI Algiers</h3>
-
+<!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=moulahcene26&label=Profile%20views&color=0e75b6&style=flat" alt="moulahcene26" />
+  <img src="https://images.unsplash.com/photo-1523285367489-d38aec03b7f9?auto=format&fit=crop&w=1200&q=80" alt="Mountain Sunset" width="100%" />
 </p>
 
-- 🎓 **Student:** ESI (Ecole nationale Supérieure d'Informatique), Algiers  
-- 🌱 **Currently Learning:** Compilers, Frontend Development, and Cloud Technologies  
-- 💻 **Website:** [abdelmounaim.xyz](https://abdelmounaim.xyz)  
-- 📫 **Contact:** oa_moulahcene@esi.dz  
-- 💼 **LinkedIn:** [Abdelmounaim Moulahcene](https://linkedin.com/in/abdelmounaim-moulahcene)
-
----
-
-
-### 🛠️ Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=fff)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=fff)
-
----
-
-### 📊 GitHub Stats
+<h1 align="center">🦋 Abdelmounaim Moulahcene</h1>
+<h3 align="center">A Student of the Infinite</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moulahcene26&show_icons=true&theme=tokyonight" alt="moulahcene26 stats"/>
+  <em>
+    "The more I learn, the more I realize how much I do not know."
+  </em>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moulahcene26&theme=tokyonight" alt="moulahcene26 streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moulahcene26&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://komarev.com/ghpvc/?username=moulahcene26&style=flat-square&color=lightgrey" alt="Profile Views" />
 </p>
 
 ---
 
-### 🌱 Recent Activity
+<img align="right" src="https://images.unsplash.com/photo-1500375592092-40eb2168fd21?auto=format&fit=crop&w=300&q=80" width="250" alt="Open Book" />
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+### 🪷 Who I Am
+
+- 🧭 **Student** at ESI Algiers  
+- 📫 **Reach me:** oa_moulahcene@esi.dz  
+- 🌐 [abdelmounaim.xyz](https://abdelmounaim.xyz)  
+- 🕊️ [LinkedIn](https://linkedin.com/in/abdelmounaim-moulahcene)
 
 ---
 
-### ✨ Fun Fact
+> *“He who knows others is wise; he who knows himself is enlightened.”*  
 
-💡 *I love exploring programming languages and building tools for developers.*
+---
+
+### 🛠️ Tools Along the Way
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,c,vscode,github&theme=light" />
+</p>
+
+---
+
+### 📈 Reflections on Practice
+
+> *“Nature does not hurry, yet everything is accomplished.”*
+> 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moulahcene26&show_icons=true&theme=calm&hide=issues&hide_title=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moulahcene26&theme=calm" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moulahcene26&layout=compact&theme=calm" />
+</p>
+
+---
+
+### 🌸 A Thought to Carry
+
+<p align="center">
+  <em>
+    “Simplicity is the ultimate sophistication.”
+  </em>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
+  <a href="mailto:oa_moulahcene@esi.dz">
+    <img src="https://img.shields.io/badge/-Write to Me-grey?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/abdelmounaim-moulahcene">
+    <img src="https://img.shields.io/badge/-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://abdelmounaim.xyz">
+    <img src="https://img.shields.io/badge/-Visit my Site-darkgreen?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
