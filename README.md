@@ -22,13 +22,8 @@
 ### 🛠️ Tools Along the Way
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,tailwind,html,css,c,nodejs,jupyter,vscode,github&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,react,tailwind,nodejs,c,github,html&theme=light" />
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Google%20Developer%20Groups-34a853?style=for-the-badge&logo=google&logoColor=white" />
-</p>
-
 ---
 
 ### 📈 Reflections on Practice
