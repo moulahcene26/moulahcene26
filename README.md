@@ -13,47 +13,10 @@
 
 ---
 
-<blockquote style="color:#b33;">
-  <em>“He who knows others is wise; he who knows himself is enlightened.”</em>
-</blockquote>
-
----
-
 ### 🛠️ Tools Along the Way
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,typescript,react,tailwind,nodejs,c,github,html,cpp,java&theme=dark" />
-</p>
----
-
-### 📈 Reflections on Practice
-
-<p align="center">
-  <em style="color:#b33;">
-    “Nature does not hurry, yet everything is accomplished.”
-  </em>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moulahcene26&show_icons=true&theme=dark&icon_color=b33&title_color=b33&text_color=aaa&hide=issues&hide_title=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moulahcene26&theme=dark&background=000000&stroke=bb4444&ring=bb4444&fire=bb4444&currStreakLabel=bb4444" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moulahcene26&layout=compact&theme=dark&title_color=bb4444&text_color=aaa" />
-</p>
-
----
-
-### 
-
-<p align="center">
-  <em style="color:#b33;">
-    “Simplicity is the ultimate sophistication.”
-  </em>
 </p>
 
 ---
