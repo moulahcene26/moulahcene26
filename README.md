@@ -6,10 +6,10 @@
 
 ### 🪷 Who I Am
 
-- 🧭 **Student** at ESI Algiers  
-- 📫 **Reach me:** oa_moulahcene@esi.dz  
-- 🌐 [abdelmounaim.xyz](https://abdelmounaim.xyz)  
-- 🕊️ [LinkedIn](https://linkedin.com/in/abdelmounaim-moulahcene)
+-  **Student** at ESI Algiers  
+-  **Reach me:** oa_moulahcene@esi.dz  
+-  [abdelmounaim.xyz](https://abdelmounaim.xyz)  
+-  [LinkedIn](https://linkedin.com/in/abdelmounaim-moulahcene)
 
 ---
 
