@@ -16,7 +16,7 @@
 ### 🛠️ Tools Along the Way
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,react,tailwind,nodejs,c,github,html,cpp,java&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,typescript,react,tailwind,c,github,html,cpp,java&theme=dark" />
 </p>
 
 ---
