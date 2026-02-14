@@ -1,7 +1,7 @@
 # Abdelmounaim
 
 **CTF Player · CS Student · Developer**  
-bl0rph @ Irgazen & ByteC4ts
+bl0rph @ Irgazen 
 
 Hey :>
 
